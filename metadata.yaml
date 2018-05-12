@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '31779'
     url: http://www.gutenberg.org/2009/agents/31779
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39486#Sidelights-on-Chinese-Life
 gutenberg_issued: '2012-04-20'
 gutenberg_type: Text
 identifiers:
