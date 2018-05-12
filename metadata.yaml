@@ -1,0 +1,40 @@
+_repo: Sidelights-on-Chinese-Life_39486
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smyth, Montague
+    alias: Smyth, Montagu
+    gutenberg_agent_id: '44372'
+    url: http://www.gutenberg.org/2009/agents/44372
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macgowan, J. (John)
+    alias: Macgowan, John
+    deathdate: 1922
+    gutenberg_agent_id: '31779'
+    url: http://www.gutenberg.org/2009/agents/31779
+description: ''
+gutenberg_issued: '2012-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39486'
+  lccn: 08003983
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'China -- Social life and customs'
+- !lcsh 'National characteristics, Chinese'
+tableOfContents: The Chinaman -- Family life -- Child life -- Religious forces in
+  China -- Servants -- The adaptability and tenacity of purpose of the Chinese --
+  Amusements -- The farmer -- A ramble through a Chinese city -- Hades, or the Land
+  of Shadows -- A chapter on some of the more shady professions in Chinese life --
+  Schools, school-masters, and school-books -- The mandarin -- Peddler life in China
+  -- The seamy side of Chinese life -- A trip through the country.
+title: Sidelights on Chinese Life
+url: http://www.gutenberg.org/ebooks/39486
